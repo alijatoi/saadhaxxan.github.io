@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1ccf352.chunk.css",
-    "main.js": "/static/js/main.742f3505.chunk.js",
-    "main.js.map": "/static/js/main.742f3505.chunk.js.map",
+    "main.css": "/static/css/main.cf6cc5c4.chunk.css",
+    "main.js": "/static/js/main.0d291124.chunk.js",
+    "main.js.map": "/static/js/main.0d291124.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.21aed1dd.js",
     "runtime-main.js.map": "/static/js/runtime-main.21aed1dd.js.map",
     "static/js/2.8b8c604b.chunk.js": "/static/js/2.8b8c604b.chunk.js",
     "static/js/2.8b8c604b.chunk.js.map": "/static/js/2.8b8c604b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.acd1dc570b47f553bfe03d584e8253b7.js": "/precache-manifest.acd1dc570b47f553bfe03d584e8253b7.js",
+    "precache-manifest.ab7463f9fc27ac9e5d481c87fc28bf6c.js": "/precache-manifest.ab7463f9fc27ac9e5d481c87fc28bf6c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.d1ccf352.chunk.css.map": "/static/css/main.d1ccf352.chunk.css.map",
+    "static/css/main.cf6cc5c4.chunk.css.map": "/static/css/main.cf6cc5c4.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/JP-Morgan-Chase-logo.jpg": "/static/media/JP-Morgan-Chase-logo.3db91d48.jpg",
     "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
@@ -18,13 +18,12 @@
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
-    "static/media/TalkCard.css": "/static/media/talksCardBack.de3da806.svg",
     "static/media/virufyLogo.png": "/static/media/virufyLogo.bb63ebb3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.21aed1dd.js",
     "static/js/2.8b8c604b.chunk.js",
-    "static/css/main.d1ccf352.chunk.css",
-    "static/js/main.742f3505.chunk.js"
+    "static/css/main.cf6cc5c4.chunk.css",
+    "static/js/main.0d291124.chunk.js"
   ]
 }
