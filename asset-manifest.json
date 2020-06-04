@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1ccf352.chunk.css",
+    "main.js": "/static/js/main.a80f292a.chunk.js",
+    "main.js.map": "/static/js/main.a80f292a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.21aed1dd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.21aed1dd.js.map",
+    "static/js/2.8b8c604b.chunk.js": "/static/js/2.8b8c604b.chunk.js",
+    "static/js/2.8b8c604b.chunk.js.map": "/static/js/2.8b8c604b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.84f7e5aefce0c0978835c8d25696d555.js": "/precache-manifest.84f7e5aefce0c0978835c8d25696d555.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d1ccf352.chunk.css.map": "/static/css/main.d1ccf352.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/JP-Morgan-Chase-logo.jpg": "/static/media/JP-Morgan-Chase-logo.3db91d48.jpg",
+    "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.de3da806.svg",
+    "static/media/virufyLogo.png": "/static/media/virufyLogo.bb63ebb3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21aed1dd.js",
+    "static/js/2.8b8c604b.chunk.js",
+    "static/css/main.d1ccf352.chunk.css",
+    "static/js/main.a80f292a.chunk.js"
+  ]
+}
